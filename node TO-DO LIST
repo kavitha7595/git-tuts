@@ -1,0 +1,29 @@
+# 📝 Node.js To-Do List App
+
+A simple To-Do list app built using **Node.js**, **JavaScript**, and **Tailwind CSS**.
+
+---
+
+## 🚀 Features
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Task data stored in a file (`todo.json`)
+
+---
+
+## 📦 Tech Stack
+- Node.js (Backend)
+- HTML & Tailwind CSS (Frontend)
+- Vanilla JavaScript (DOM)
+
+---
+
+## 🛠 How to Run the App Locally
+
+1. Clone this repo or download it  
+2. Open the terminal inside the folder  
+3. Run the server:
+
+```bash
+node server.js
